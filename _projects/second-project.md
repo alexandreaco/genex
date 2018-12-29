@@ -1,9 +1,11 @@
 ---
+title: Second Project
+date: 2018-12-28 18:20:31 Z
+permalink: "/second-project/"
+categories:
+- residential
 layout: project
-name:  "My Second Project"
-permalink: /second-project/
-date:   2018-12-28 13:20:31 -0500
-categories: residential
+name: My Second Project
 status: completed
 location: Newport, RI
 budget: 2.5 million

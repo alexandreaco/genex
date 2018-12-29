@@ -1,7 +1,7 @@
 ---
-layout: page
 title: News
-permalink: /news/
+permalink: "/news/"
+layout: page
 ---
 
 This is a list of current news

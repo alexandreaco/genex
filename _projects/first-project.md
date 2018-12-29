@@ -1,9 +1,11 @@
 ---
+title: First Project
+date: 2018-12-28 18:20:31 Z
+permalink: "/first-project/"
+categories:
+- residential
 layout: project
-name:  "My First Project"
-permalink: /first-project/
-date:   2018-12-28 13:20:31 -0500
-categories: residential
+name: My First Project
 status: current
 location: Jamestown, RI
 budget: 1.5 million
