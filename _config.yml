@@ -20,6 +20,6 @@ url: ''
 twitter_username: jekyllrb
 github_username: jekyll
 markdown: kramdown
-theme: genex_theme
+theme: alexandreaco/genex_theme
 plugins:
 - jekyll-feed
