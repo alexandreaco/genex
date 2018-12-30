@@ -2,8 +2,8 @@
 title: Second Project
 date: 2018-12-28 18:20:31 Z
 permalink: "/second-project/"
-categories:
-- residential
+Categories:
+- Residential
 layout: project
 name: My Second Project
 status: completed
