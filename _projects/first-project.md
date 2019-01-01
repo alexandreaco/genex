@@ -18,6 +18,7 @@ images:
 - "/uploads/architecture-building-construction-534220.jpg"
 - "/uploads/construction-excavator-gravel-95687.jpg"
 - "/uploads/arrangement-color-colors-159045.jpg"
+image: "/uploads/architecture-brick-builder-209282.jpg"
 layout: project
 ---
 
