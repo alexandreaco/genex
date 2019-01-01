@@ -10,6 +10,10 @@ Categories:
 - Residential
 name: My Second Project
 image: "/uploads/apartment-architecture-ceiling-259962.jpg"
+images:
+- "/uploads/apartment-architecture-ceiling-259962.jpg"
+- "/uploads/architecture-building-construction-534220.jpg"
+- "/uploads/apartment-architecture-blue-sky-358636.jpg"
 layout: project
 ---
 
