@@ -43,7 +43,7 @@ url: http://genex.siteleaf.net/
 twitter_username: jekyllrb
 github_username: jekyll
 markdown: kramdown
-remote_theme: alexandreaco/genex_theme
+remote_theme: 
 plugins:
 - jekyll-feed
 - jekyll-remote-theme
