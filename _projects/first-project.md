@@ -19,6 +19,9 @@ images:
 - "/uploads/construction-excavator-gravel-95687.jpg"
 - "/uploads/arrangement-color-colors-159045.jpg"
 image: "/uploads/architecture-brick-builder-209282.jpg"
+Projects:
+- Second Project
+- Third Project
 layout: project
 ---
 
