@@ -25,8 +25,6 @@ Projects:
 layout: project
 ---
 
-
-
 This is the information about my project. woo hoo!
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin vehicula hendrerit tempus. Nulla egestas tortor ut lacus tincidunt, rutrum euismod lacus dignissim. Nulla et convallis dui. Quisque bibendum a ipsum a vehicula. Nam sed faucibus quam, sit amet pellentesque nisl. In pulvinar orci condimentum metus pharetra viverra. Maecenas auctor ex sit amet tortor condimentum lacinia. Proin quis felis fermentum, varius felis posuere, consequat enim. Quisque id tortor venenatis quam fermentum suscipit. In a velit nibh. Donec ac interdum leo. Morbi mattis porttitor consectetur. Mauris posuere malesuada diam. Curabitur mattis magna purus, eu dictum nisl dapibus faucibus. Mauris non massa pulvinar, maximus odio quis, viverra massa. Curabitur placerat nisl in ipsum iaculis eleifend.
