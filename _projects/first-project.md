@@ -4,7 +4,7 @@ date: 2018-12-28 18:20:00 Z
 permalink: "/first-project/"
 categories:
 - residential
-status: current
+status: in progress
 location: Jamestown, RI
 budget: 1.5 million
 year: 2019
@@ -18,6 +18,7 @@ images:
 - "/uploads/architecture-building-construction-534220.jpg"
 - "/uploads/construction-excavator-gravel-95687.jpg"
 - "/uploads/arrangement-color-colors-159045.jpg"
+- "/uploads/apartment-architecture-ceiling-259962.jpg"
 name: My First Project
 Projects:
 - Second Project
@@ -28,6 +29,8 @@ layout: project
 This is the information about my project.
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin vehicula hendrerit tempus. Nulla egestas tortor ut lacus tincidunt, rutrum euismod lacus dignissim. Nulla et convallis dui. Quisque bibendum a ipsum a vehicula. Nam sed faucibus quam, sit amet pellentesque nisl. In pulvinar orci condimentum metus pharetra viverra. Maecenas auctor ex sit amet tortor condimentum lacinia. Proin quis felis fermentum, varius felis posuere, consequat enim. Quisque id tortor venenatis quam fermentum suscipit. In a velit nibh. Donec ac interdum leo. Morbi mattis porttitor consectetur. Mauris posuere malesuada diam. Curabitur mattis magna purus, eu dictum nisl dapibus faucibus. Mauris non massa pulvinar, maximus odio quis, viverra massa. Curabitur placerat nisl in ipsum iaculis eleifend.
+
+![architecture-building-construction-534220.jpg](/uploads/architecture-building-construction-534220.jpg)
 
 ![arrangement-color-colors-159045.jpg](/uploads/arrangement-color-colors-159045.jpg)
 
