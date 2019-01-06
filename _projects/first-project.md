@@ -10,7 +10,7 @@ budget: 1.5 million
 year: 2019
 Categories:
 - Commercial
-name: My First Project
+image: "/uploads/architecture-brick-builder-209282.jpg"
 images:
 - "/uploads/apartment-architecture-blue-sky-358636.jpg"
 - "/uploads/architecture-brick-builder-209282.jpg"
@@ -18,7 +18,7 @@ images:
 - "/uploads/architecture-building-construction-534220.jpg"
 - "/uploads/construction-excavator-gravel-95687.jpg"
 - "/uploads/arrangement-color-colors-159045.jpg"
-image: "/uploads/architecture-brick-builder-209282.jpg"
+name: My First Project
 Projects:
 - Second Project
 - Third Project
@@ -28,6 +28,8 @@ layout: project
 This is the information about my project. woo hoo!
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin vehicula hendrerit tempus. Nulla egestas tortor ut lacus tincidunt, rutrum euismod lacus dignissim. Nulla et convallis dui. Quisque bibendum a ipsum a vehicula. Nam sed faucibus quam, sit amet pellentesque nisl. In pulvinar orci condimentum metus pharetra viverra. Maecenas auctor ex sit amet tortor condimentum lacinia. Proin quis felis fermentum, varius felis posuere, consequat enim. Quisque id tortor venenatis quam fermentum suscipit. In a velit nibh. Donec ac interdum leo. Morbi mattis porttitor consectetur. Mauris posuere malesuada diam. Curabitur mattis magna purus, eu dictum nisl dapibus faucibus. Mauris non massa pulvinar, maximus odio quis, viverra massa. Curabitur placerat nisl in ipsum iaculis eleifend.
+
+![arrangement-color-colors-159045.jpg](/uploads/arrangement-color-colors-159045.jpg)
 
 Suspendisse purus est, accumsan id iaculis egestas, volutpat id est. Quisque hendrerit tristique urna, sit amet tristique purus cursus non. Donec pretium lectus purus. Nunc enim ipsum, facilisis ac lacinia ornare, consectetur tempor urna. Nullam tempus nunc quis nisi ultrices vestibulum. Sed interdum et est eget tincidunt. Aliquam pulvinar varius eros quis iaculis. Sed maximus aliquet pulvinar.
 
