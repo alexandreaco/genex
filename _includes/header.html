@@ -21,11 +21,11 @@
   <div class="header-right">
     <nav>
       <!--<span data-nav-button class="header-link">Work</span>-->
-      <a class="header-link" href="/work">Work</a>
-      <a class="header-link" href="/services">Services</a>
-      <a class="header-link" href="/about">About</a>
-      <a class="header-link" href="/news">News</a>
-      <a class="header-link" href="/contact">Contact</a>
+      {% include header-link.html link="/work" title="Work" page=page %}
+      {% include header-link.html link="/services" title="Services" page=page %}
+      {% include header-link.html link="/about" title="About" page=page %}
+      {% include header-link.html link="/news" title="News" page=page %}
+      {% include header-link.html link="/contact" title="Contact" page=page %}
     </nav>
   </div>
 </header>

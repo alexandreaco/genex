@@ -22,6 +22,10 @@ header {
   margin-right: 40px;
 }
 
+.header-link.active {
+  color: $color-red;
+}
+
 .header-dropdown {
   height: 0px;
   overflow: hidden;
