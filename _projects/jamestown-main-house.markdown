@@ -3,7 +3,7 @@ title: Jamestown - Main House
 date: 2019-01-21 16:54:00 Z
 location: Jamestown, RI
 year: 2019
-Status: Complete
+Status: In Progress
 SqFt: 3000
 Categories:
 - Residential
