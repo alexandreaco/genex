@@ -6,7 +6,7 @@ categories:
 - residential
 status: in progress
 location: Jamestown, RI
-budget: 1.5 million
+SqFt: 3,000
 year: 2019
 Categories:
 - Commercial

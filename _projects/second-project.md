@@ -4,7 +4,7 @@ date: 2018-12-28 18:20:00 Z
 permalink: "/second-project/"
 status: completed
 location: Newport, RI
-budget: 2.5 million
+SqFt: 3,000
 year: 2018
 Categories:
 - Residential
