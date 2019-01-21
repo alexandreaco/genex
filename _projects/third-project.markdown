@@ -3,7 +3,7 @@ title: Third Project
 date: 2019-01-06 19:26:00 Z
 Status: Complete
 location: Cape Cod
-SqFt: 3,000
+SqFt: 3000
 year: 2019
 Categories:
 - Residential

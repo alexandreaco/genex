@@ -6,7 +6,7 @@ categories:
 - residential
 Status: In Progress
 location: Jamestown, RI
-SqFt: 3,000
+SqFt: 3000
 year: 2019
 Categories:
 - Commercial

@@ -4,7 +4,7 @@ date: 2018-12-28 18:20:00 Z
 permalink: "/second-project/"
 Status: Complete
 location: Newport, RI
-SqFt: 3,000
+SqFt: 3000
 year: 2018
 Categories:
 - Residential
