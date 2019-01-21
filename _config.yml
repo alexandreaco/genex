@@ -32,6 +32,8 @@ defaults:
     image: 
     images:
     - 
+    Projects:
+    -
 - scope:
     path: ''
     type: homeSlideshow
