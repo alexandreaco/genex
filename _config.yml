@@ -11,6 +11,9 @@ collections:
   projects:
     title: Projects
     output: true
+  homeSlideshow:
+    title: Home Slideshow
+    output: false
   uploads:
     title: Uploads
     output: true
@@ -31,7 +34,7 @@ defaults:
     - 
 - scope:
     path: ''
-    type: home carousel
+    type: homeSlideshow
   values:
     image: 
 email: your-email@example.com
