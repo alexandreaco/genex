@@ -5,15 +5,15 @@ collections:
   categories:
     title: Categories
     output: false
+  homeSlideshow:
+    title: Home Slideshow
+    output: false
   posts:
     title: Posts
     output: true
   projects:
     title: Projects
     output: true
-  homeSlideshow:
-    title: Home Slideshow
-    output: false
   uploads:
     title: Uploads
     output: true
