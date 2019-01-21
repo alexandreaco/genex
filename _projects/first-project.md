@@ -20,7 +20,7 @@ images:
 - "/uploads/arrangement-color-colors-159045.jpg"
 - "/uploads/apartment-architecture-ceiling-259962.jpg"
 Projects:
-- Second Project
+- Booth Residence
 - Third Project
 layout: project
 ---
