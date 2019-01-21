@@ -14,6 +14,9 @@ collections:
   projects:
     title: Projects
     output: true
+  status:
+    title: Status
+    output: false
   uploads:
     title: Uploads
     output: true
@@ -23,9 +26,9 @@ defaults:
     type: projects
   values:
     layout: project
-    status: 
     location: 
     year: 
+    Status: In Progress
     SqFt:
     Categories:
     - 

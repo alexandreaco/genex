@@ -4,7 +4,7 @@ date: 2018-12-28 18:20:00 Z
 permalink: "/first-project/"
 categories:
 - residential
-status: in progress
+Status: In Progress
 location: Jamestown, RI
 SqFt: 3,000
 year: 2019

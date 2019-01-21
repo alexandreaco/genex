@@ -2,7 +2,7 @@
 title: Second Project
 date: 2018-12-28 18:20:00 Z
 permalink: "/second-project/"
-status: completed
+Status: Complete
 location: Newport, RI
 SqFt: 3,000
 year: 2018
