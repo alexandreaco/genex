@@ -33,7 +33,7 @@ defaults:
     images:
     - 
     Projects:
-    -
+    - 
 - scope:
     path: ''
     type: homeSlideshow
