@@ -1,21 +1,20 @@
 ---
-title: Second Project
+title: Booth Residence
 date: 2018-12-28 18:20:00 Z
 permalink: "/second-project/"
-Status: Complete
 location: Newport, RI
-SqFt: 3000
 year: 2018
+Status: Complete
+SqFt: 3000
 Categories:
 - Residential
-name: My Second Project
 image: "/uploads/apartment-architecture-ceiling-259962.jpg"
 images:
 - "/uploads/apartment-architecture-ceiling-259962.jpg"
 - "/uploads/architecture-building-construction-534220.jpg"
 - "/uploads/apartment-architecture-blue-sky-358636.jpg"
 Projects:
-- First Project
+- Koch House
 - Third Project
 layout: project
 ---
