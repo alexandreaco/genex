@@ -1,13 +1,13 @@
 ---
-title: First Project
+title: Koch House
 date: 2018-12-28 18:20:00 Z
 permalink: "/first-project/"
 categories:
 - residential
-Status: In Progress
-location: Jamestown, RI
-SqFt: 3000
+location: Warwick, RI
 year: 2019
+Status: Complete
+SqFt: 3000
 Categories:
 - Commercial
 image: "/uploads/architecture-brick-builder-209282.jpg"
@@ -19,7 +19,6 @@ images:
 - "/uploads/construction-excavator-gravel-95687.jpg"
 - "/uploads/arrangement-color-colors-159045.jpg"
 - "/uploads/apartment-architecture-ceiling-259962.jpg"
-name: My First Project
 Projects:
 - Second Project
 - Third Project
