@@ -1,0 +1,10 @@
+<div class="work-item">
+  {% assign status = site.status | where: 'title', project.Status | first %}
+  <a href="{{ project.url }}">
+    <div class="work-image">
+      <img src="{{ project.image }}" />
+      <h4 class="description">{{ project.title }}</h4>
+    </div>
+    <h6>{{ project.location }} | {{ status.title }}</h6>
+  </a>
+</div>

@@ -3,11 +3,10 @@ layout: default
 ---
 
 <section class="work">
-  {% include work-filters.html active="default" %}
+  {% include work-filters.html active=page.title %}
   <div class="work-gallery">
-    {% for p in page.Projects %}
-      {% assign project = site.projects | where: 'title', p | first %}
-      {% if project %}
+    {% for project in site.projects %}
+      {% if project.Categories contains page.title %}
         {% include work-item.html project=project %}
       {% endif %}
     {% endfor %}

@@ -1,0 +1,16 @@
+<div class="work-filters">
+  <nav>
+    <a
+      href="/work"
+      class="{% if include.active == "default"%}active{% endif %}">
+      Featured Projects
+    </a>
+    {% for cat in site.categories %}
+      <a
+        href="{{ cat.permalink }}"
+        class="{% if include.active == cat.title %}active{% endif %}">
+        {{ cat.title }}
+      </a>
+    {% endfor %}
+  </nav>
+</div>
