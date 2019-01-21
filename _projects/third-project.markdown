@@ -1,10 +1,10 @@
 ---
-title: Third Project
+title: Dinardo House
 date: 2019-01-06 19:26:00 Z
-Status: Complete
-location: Cape Cod
-SqFt: 3000
+location: Newport, RI
 year: 2019
+Status: Complete
+SqFt: 3000
 Categories:
 - Residential
 image: "/uploads/apartment-architecture-blue-sky-358636.jpg"
@@ -13,8 +13,8 @@ images:
 - "/uploads/arrangement-color-colors-159045.jpg"
 - "/uploads/apartment-architecture-blue-sky-358636.jpg"
 Projects:
-- First Project
-- Second Project
+- Koch House
+- Booth Residence
 ---
 
 My third project was the best by far.
