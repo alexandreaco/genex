@@ -14,6 +14,7 @@ images:
 - "/uploads/img-web-0030_orig.jpg"
 - "/uploads/architecture-building-construction-534220.jpg"
 - "/uploads/img-web-0034_orig-002e45.jpg"
+- "/uploads/img-web-0022_1_orig.jpg"
 Projects:
 - Koch House
 - Third Project
