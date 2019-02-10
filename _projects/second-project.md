@@ -10,6 +10,7 @@ Categories:
 - Residential
 - 
 - 
+image: "/uploads/img-web-0041_orig.jpg"
 images:
 - "/uploads/img-web-0030_orig.jpg"
 - "/uploads/architecture-building-construction-534220.jpg"
