@@ -3,8 +3,8 @@ title: Work
 permalink: "/work/"
 Projects:
 - Sweats Estate
-- Jamestown - Guest House
 - Jamestown - Caretaker House
+- Jamestown - Guest House
 - Jamestown - Carriage House
 - Jamestown - Main House
 - Emily Providence
