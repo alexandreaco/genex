@@ -8,11 +8,12 @@ Status: Complete
 SqFt: 3000
 Categories:
 - Residential
-image: "/uploads/apartment-architecture-ceiling-259962.jpg"
+- 
+- 
 images:
-- "/uploads/apartment-architecture-ceiling-259962.jpg"
+- "/uploads/img-web-0030_orig.jpg"
 - "/uploads/architecture-building-construction-534220.jpg"
-- "/uploads/apartment-architecture-blue-sky-358636.jpg"
+- "/uploads/img-web-0034_orig-002e45.jpg"
 Projects:
 - Koch House
 - Third Project
