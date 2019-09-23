@@ -1,7 +1,7 @@
 ---
 title: Morin Estate
 date: 2019-01-21 16:53:00 Z
-position: 4
+position: 3
 location: Newport, RI
 year: 2019
 Status: Complete
