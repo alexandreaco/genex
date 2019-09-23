@@ -1,5 +1,5 @@
 ---
-title: Jamestown - Carriage House
+title: Carriage House
 date: 2019-01-21 16:55:00 Z
 position: 4
 location: Jamestown, RI
