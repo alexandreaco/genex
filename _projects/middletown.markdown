@@ -7,7 +7,8 @@ Status: Complete
 SqFt: 3000
 Categories:
 - Residential
-image: "/uploads/Dinardo-973-858593.jpg"
+image:
+- "/uploads/Dinardo-1055.jpg"
 images:
 - "/uploads/Dinardo-1025.jpg"
 - "/uploads/Dinardo-357.jpg"
