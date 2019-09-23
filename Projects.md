@@ -2,6 +2,8 @@
 title: Projects
 permalink: "/work/"
 Projects:
+- Middletown
+- Ocean View
 - Sweats Estate
 - Jamestown - Caretaker House
 - Jamestown - Guest House
@@ -11,8 +13,6 @@ Projects:
 - Doctor Z
 - Morin Estate
 - Lester Residence
-- Ocean View
-- Middletown
 - Booth Residence
 - Koch House
 layout: work
