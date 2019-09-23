@@ -1,5 +1,5 @@
 ---
-title: Minkes House
+title: Ocean View
 date: 2019-01-21 16:49:00 Z
 location: Newport, RI
 year: 2019
