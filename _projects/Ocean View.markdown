@@ -1,8 +1,8 @@
 ---
 title: Ocean View
 date: 2019-01-21 16:49:00 Z
-location: Newport, RI
-year: 2019
+location: Middletown, RI
+year: 2017
 Status: Complete
 SqFt: 3000
 Categories:
