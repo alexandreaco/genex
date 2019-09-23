@@ -1,5 +1,5 @@
 ---
-title: Work
+title: Projects
 permalink: "/work/"
 Projects:
 - Sweats Estate
