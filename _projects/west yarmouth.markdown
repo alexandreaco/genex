@@ -1,6 +1,7 @@
 ---
 title: West Yarmouth
 date: 2019-01-21 17:06:00 Z
+position: 11
 location: Cape Cod, MA
 year: 2019
 SqFt: 8500

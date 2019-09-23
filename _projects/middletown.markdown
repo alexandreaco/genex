@@ -1,6 +1,7 @@
 ---
 title: Middletown
 date: 2019-01-06 19:26:00 Z
+position: 2
 location: Middletown, RI
 year: 2018
 Status: Complete

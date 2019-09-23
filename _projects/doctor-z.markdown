@@ -1,6 +1,7 @@
 ---
 title: Doctor Z
 date: 2019-01-21 17:02:00 Z
+position: 10
 location: Providence, RI
 year: 2019
 Status: Complete

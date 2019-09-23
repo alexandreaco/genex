@@ -2,6 +2,7 @@
 title: Koch House
 date: 2018-12-28 18:20:00 Z
 permalink: "/first-project/"
+position: 3
 location: Warwick, RI
 year: 2019
 Status: Complete

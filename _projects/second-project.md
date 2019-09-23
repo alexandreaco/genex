@@ -2,6 +2,7 @@
 title: Booth Residence
 date: 2018-12-28 18:20:00 Z
 permalink: "/second-project/"
+position: 0
 location: Newport, RI
 year: 2018
 Status: Complete
