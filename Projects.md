@@ -8,7 +8,6 @@ Projects:
 - Jamestown - Caretaker House
 - Jamestown - Guest House
 - Jamestown - Carriage House
-- 
 - Emily Providence
 - Doctor Z
 - Morin Estate
