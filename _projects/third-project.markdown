@@ -7,11 +7,18 @@ Status: Complete
 SqFt: 3000
 Categories:
 - Residential
-image: "/uploads/apartment-architecture-blue-sky-358636.jpg"
+image: "/uploads/Dinardo-973-858593.jpg"
 images:
-- "/uploads/apartment-architecture-ceiling-259962.jpg"
-- "/uploads/arrangement-color-colors-159045.jpg"
-- "/uploads/apartment-architecture-blue-sky-358636.jpg"
+- "/uploads/Dinardo-1025.jpg"
+- "/uploads/Dinardo-357.jpg"
+- "/uploads/Dinardo-517.jpg"
+- "/uploads/Dinardo-329.jpg"
+- "/uploads/Dinardo-927.jpg"
+- "/uploads/Dinardo-677.jpg"
+- "/uploads/Dinardo-809.jpg"
+- "/uploads/Dinardo-745.jpg"
+- "/uploads/Dinardo-3.jpg"
+- "/uploads/Dinardo-13.jpg"
 Projects:
 - Koch House
 - Booth Residence
