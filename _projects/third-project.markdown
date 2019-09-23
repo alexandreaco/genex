@@ -1,5 +1,5 @@
 ---
-title: Dinardo House
+title: Middletown
 date: 2019-01-06 19:26:00 Z
 location: Middletown, RI
 year: 2018
