@@ -7,10 +7,12 @@ Status: Complete
 SqFt: 3000
 Categories:
 - Residential
-image: "/uploads/apartment-architecture-ceiling-259962.jpg"
+image: "/uploads/Photo%20Jun%2026,%201%2044%2025%20PM.jpg"
 images:
-- "/uploads/arrangement-color-colors-159045.jpg"
-- "/uploads/architecture-building-construction-534220.jpg"
+- "/uploads/Photo%20Oct%2026,%208%2013%2007%20AM.jpg"
+- "/uploads/Photo%20Jul%2007,%204%2005%2011%20PM.jpg"
+- "/uploads/Photo%20Jun%2013,%202%2042%2049%20PM.jpg"
+- "/uploads/Photo%20Jun%2013,%202%2038%2007%20PM.jpg"
 Projects:
 - Dinardo House
 - Booth Residence
