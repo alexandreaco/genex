@@ -1,7 +1,7 @@
 ---
 title: Lester Residence
 date: 2019-01-21 16:51:00 Z
-position: 5
+position: 6
 location: Newport, RI
 year: 2019
 Status: Complete
