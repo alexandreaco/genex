@@ -11,8 +11,8 @@ Projects:
 - Doctor Z
 - Morin Estate
 - Lester Residence
-- Minkes House
-- Dinardo House
+- Ocean View
+- Middletown
 - Booth Residence
 - Koch House
 layout: work
