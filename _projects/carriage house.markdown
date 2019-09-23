@@ -4,13 +4,15 @@ date: 2019-01-21 16:55:00 Z
 position: 4
 location: Jamestown, RI
 year: 2019
-SqFt: 3000
+Status: Complete
+SqFt: 2300
 Categories:
 - Residential
-image: "/uploads/architecture-brick-builder-209282.jpg"
+image: "/uploads/IMG_5257.JPG"
 images:
-- "/uploads/arrangement-color-colors-159045.jpg"
-- "/uploads/construction-excavator-gravel-95687.jpg"
+- "/uploads/IMG_3212.JPG"
+- "/uploads/IMG_3180.JPG"
+- "/uploads/IMG_5292.JPG"
 Projects:
 - Jamestown - Main House
 - Morin Estate
