@@ -8,7 +8,7 @@ Status: Complete
 SqFt: 3000
 Categories:
 - Residential
-image: "/uploads/IMG_5370.JPG"
+image: "/uploads/20190624_085452.jpg"
 images:
 - "/uploads/20190624_085441.jpg"
 - "/uploads/20190624_090312.jpg"
