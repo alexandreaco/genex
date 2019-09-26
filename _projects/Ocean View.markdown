@@ -1,7 +1,7 @@
 ---
 title: Ocean View
 date: 2019-01-21 16:49:00 Z
-position: 1
+position: 2
 location: Middletown, RI
 year: 2017
 Status: Complete
