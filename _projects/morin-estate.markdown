@@ -1,5 +1,5 @@
 ---
-title: Morin Estate
+title: Beachside
 date: 2019-01-21 16:53:00 Z
 position: 3
 location: Newport, RI
