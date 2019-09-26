@@ -5,7 +5,7 @@ position: 4
 location: Newport, RI
 year: 2018
 Status: Complete
-SqFt: 3000
+SqFt: '3,000'
 Categories:
 - Residential
 image: "/uploads/20190624_085452.jpg"
