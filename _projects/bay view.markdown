@@ -7,10 +7,9 @@ year: 2019
 SqFt: 8500
 Categories:
 - Residential
-image: "/uploads/architecture-building-construction-534220.jpg"
+image: "/uploads/DJI_0002.JPG"
 images:
-- "/uploads/construction-excavator-gravel-95687.jpg"
-- "/uploads/architecture-brick-builder-209282.jpg"
+- "/uploads/DJI_0036.JPG"
 Projects:
 - Jamestown - Carriage House
 - Minkes House
