@@ -1,7 +1,7 @@
 ---
 title: Beachside
 date: 2019-01-21 16:53:00 Z
-position: 3
+position: 4
 location: Newport, RI
 year: 2018
 Status: Complete
