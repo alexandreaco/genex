@@ -8,5 +8,11 @@ Status: Complete
 SqFt: '4,500'
 Categories:
 - Residential
+image: "/uploads/IMG_4176.JPG"
+images:
+- "/uploads/IMG_4125.JPG"
+- "/uploads/IMG_4126.JPG"
+- "/uploads/IMG_4120.JPG"
+- "/uploads/IMG_4102.JPG"
 ---
 
