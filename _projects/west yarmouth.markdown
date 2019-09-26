@@ -1,5 +1,5 @@
 ---
-title: West Yarmouth
+title: Bay View
 date: 2019-01-21 17:06:00 Z
 position: 3
 location: Cape Cod, MA
