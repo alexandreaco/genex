@@ -1,7 +1,7 @@
 ---
 title: Carriage House
 date: 2019-01-21 16:55:00 Z
-position: 3
+position: 2
 location: Jamestown, RI
 year: 2019
 Status: Complete
