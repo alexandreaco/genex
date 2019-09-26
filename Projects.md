@@ -4,7 +4,7 @@ permalink: "/work/"
 Projects:
 - Middletown
 - Ocean View
-- West Yarmouth
+- Bay View
 - Carriage House
 - Beachside
 - Middle Creek Farm
