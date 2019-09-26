@@ -1,7 +1,7 @@
 ---
 title: Jamestown - Caretaker House
 date: 2019-01-21 16:57:00 Z
-position: 7
+position: 8
 location: Jamestown, RI
 year: 2019
 SqFt: 3000

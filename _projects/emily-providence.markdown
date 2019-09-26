@@ -1,7 +1,7 @@
 ---
 title: Emily Providence
 date: 2019-01-21 17:01:00 Z
-position: 9
+position: 10
 location: Fox Point, Providence, RI
 year: 2018
 Status: Complete

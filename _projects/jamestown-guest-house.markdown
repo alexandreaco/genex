@@ -1,7 +1,7 @@
 ---
 title: Jamestown - Guest House
 date: 2019-01-21 16:58:00 Z
-position: 8
+position: 9
 location: Jamestown, RI
 year: 2019
 SqFt: 3000
