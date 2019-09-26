@@ -5,7 +5,7 @@ position: 1
 location: Middletown, RI
 year: 2017
 Status: Complete
-SqFt: 3000
+SqFt: '3,000'
 Categories:
 - Residential
 image: "/uploads/Photo%20Jun%2026,%201%2044%2025%20PM.jpg"
