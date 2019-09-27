@@ -1,6 +1,6 @@
 ---
 title: '3'
 date: 2019-02-10 17:10:00 Z
-image: "/uploads/Dinardo-357.jpg"
+image: "/uploads/Photo%20Oct%2026,%208%2013%2007%20AM.jpg"
 ---
 
