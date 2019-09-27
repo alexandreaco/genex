@@ -9,7 +9,7 @@ SqFt: '3,000'
 Categories:
 - Residential
 image:
-- "/uploads/Dinardo-1055.jpg"
+- "/uploads/Dinardo-973.jpg"
 images:
 - "/uploads/Dinardo-1025.jpg"
 - "/uploads/Dinardo-357.jpg"
