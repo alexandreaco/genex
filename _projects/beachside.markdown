@@ -10,11 +10,13 @@ Categories:
 - Residential
 image: "/uploads/20190624_085452.jpg"
 images:
+- "/uploads/IMG_5370.JPG"
+- "/uploads/20190624_085504.jpg"
 - "/uploads/20190624_085441.jpg"
 - "/uploads/20190624_090312.jpg"
 Projects:
-- Lester Residence
-- Booth Residence
+- Bay View
+- Ocean View
 ---
 
 Project Description.
