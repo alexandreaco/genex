@@ -11,19 +11,19 @@ Categories:
 image:
 - "/uploads/Dinardo-973.jpg"
 images:
-- "/uploads/Dinardo-1025.jpg"
+- "/uploads/Dinardo-1015.jpg"
 - "/uploads/Dinardo-357.jpg"
 - "/uploads/Dinardo-517.jpg"
+- "/uploads/Dinardo-403.jpg"
 - "/uploads/Dinardo-329.jpg"
+- "/uploads/Dinardo-3.jpg"
 - "/uploads/Dinardo-927.jpg"
-- "/uploads/Dinardo-677.jpg"
 - "/uploads/Dinardo-809.jpg"
 - "/uploads/Dinardo-745.jpg"
-- "/uploads/Dinardo-3.jpg"
-- "/uploads/Dinardo-13.jpg"
+- "/uploads/Dinardo-573.jpg"
 Projects:
-- Koch House
-- Booth Residence
+- Ocean View
+- Carriage House
 ---
 
 Project Description.
