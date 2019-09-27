@@ -8,14 +8,16 @@ Status: Complete
 SqFt: 2300
 Categories:
 - Residential
-image: "/uploads/IMG_5257.JPG"
+image: "/uploads/IMG_5258.JPG"
 images:
+- "/uploads/IMG_3227.JPG"
 - "/uploads/IMG_3212.JPG"
+- "/uploads/IMG_3115.JPG"
 - "/uploads/IMG_3180.JPG"
-- "/uploads/IMG_5292.JPG"
+- "/uploads/IMG_5294.JPG"
 Projects:
-- Jamestown - Main House
-- Morin Estate
+- Bay View
+- Ocean View
 ---
 
 Project Description.
