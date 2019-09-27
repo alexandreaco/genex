@@ -10,9 +10,11 @@ Categories:
 image: "/uploads/DJI_0002.JPG"
 images:
 - "/uploads/DJI_0036.JPG"
+- "/uploads/DJI_0014.JPG"
+- "/uploads/DJI_0006.JPG"
 Projects:
-- Jamestown - Carriage House
-- Minkes House
+- Middletown
+- Carriage House
 ---
 
 Project Description.
