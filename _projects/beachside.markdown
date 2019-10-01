@@ -11,6 +11,7 @@ Categories:
 image: "/uploads/20190624_085452.jpg"
 images:
 - "/uploads/IMG_5370.JPG"
+- "/uploads/existing%20photo.png"
 - "/uploads/20190624_085504.jpg"
 - "/uploads/20190624_085441.jpg"
 - "/uploads/20190624_090312.jpg"
@@ -19,4 +20,5 @@ Projects:
 - Ocean View
 ---
 
-A complete home renovation down to the foundation. Completed in 2018, this home is nestled in the neighborhoods surrounding First Beach. 
+An existing home in Middletown, RI that underwent an extensive renovation to turn it into the client's dream home. The existing single story structure was ripped down to the foundation and completely rebuilt with great attention to detail. The home is now a perfect place for entertaining guests and enjoying the nearby beach.
+
