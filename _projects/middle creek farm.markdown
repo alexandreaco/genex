@@ -20,4 +20,4 @@ Projects:
 - Middletown
 ---
 
-Project Description.
+A new construction home situated just a few miles from the beaches. This home features 4 bedrooms and 3.5 baths, a custom designed kitchen, office and a large deck for outdoor living. 
