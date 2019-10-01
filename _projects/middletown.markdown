@@ -3,9 +3,9 @@ title: Middletown
 date: 2019-01-06 19:26:00 Z
 position: 0
 location: Middletown, RI
-year: 2018
+year: 2017
 Status: Complete
-SqFt: '3,000'
+SqFt: '4,000'
 Categories:
 - Residential
 image:
