@@ -5,7 +5,7 @@ position: 4
 location: Newport, RI
 year: 2018
 Status: Complete
-SqFt: '3,000'
+SqFt: '2,600'
 Categories:
 - Residential
 image: "/uploads/20190624_085452.jpg"
@@ -19,4 +19,4 @@ Projects:
 - Ocean View
 ---
 
-Project Description.
+A complete home renovation down to the foundation. Completed in 2018, this home is nestled in the neighborhoods surrounding First Beach. 
