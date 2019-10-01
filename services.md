@@ -4,4 +4,9 @@ permalink: "/services/"
 layout: page
 ---
 
-Here are all of the things that we can do
+* Planning & Estimating
+* Design
+* New Building Construction
+* Renovations
+* Additions
+
