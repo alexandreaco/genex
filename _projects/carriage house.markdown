@@ -5,7 +5,7 @@ position: 2
 location: Jamestown, RI
 year: 2019
 Status: Complete
-SqFt: 2300
+SqFt: '2,300'
 Categories:
 - Residential
 image: "/uploads/IMG_5258.JPG"
