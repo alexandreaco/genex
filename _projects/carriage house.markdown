@@ -20,4 +20,4 @@ Projects:
 - Ocean View
 ---
 
-Project Description.
+Situated along Cedar Point in Jamestown, RI, this carriage house is the first structure in what will become an estate featuring a main house, pilots house, and guest house. It features an open concept main floor with 2 second floor bedrooms that capture views of the shoreline. 
