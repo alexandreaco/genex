@@ -5,7 +5,7 @@ position: 1
 location: Middletown, RI
 year: 2017
 Status: Complete
-SqFt: '3,000'
+SqFt: '4,000'
 Categories:
 - Residential
 image: "/uploads/Photo%20Jun%2029,%2011%2034%2032%20AM.jpg"
@@ -22,4 +22,4 @@ Projects:
 - Carriage House
 ---
 
-Project Description.
+A beautifully crafted home that takes full advantage of its location. he interior finishes are simplistic yet carefully executed to compliment the spectacular ocean views all throughout the home. It features 4 bedrooms, 4.5 baths, a walk out finished basement and an elevator.
