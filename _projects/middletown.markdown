@@ -26,4 +26,4 @@ Projects:
 - Carriage House
 ---
 
-Project Description.
+A newly constructed residence featuring finely crafted millwork and finishes. This two story structure includes 4 bedrooms, 5.5 baths, as well as a completely finished basement for additional living. The main floor has multiple access points to the large backyard deck to promote indoor/outdoor living. 
