@@ -4,8 +4,6 @@ permalink: "/contact/"
 layout: page
 ---
 
-This is the contact page
-
-* Pull in most recent instagram photos
-* link to facebook page
-* email & phone number
+263 Shamrock Drive
+Warwick, RI 02886
+401.345.1928
