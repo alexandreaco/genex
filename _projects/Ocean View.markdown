@@ -22,4 +22,4 @@ Projects:
 - Carriage House
 ---
 
-A beautifully crafted home that takes full advantage of its location. he interior finishes are simplistic yet carefully executed to compliment the spectacular ocean views all throughout the home. It features 4 bedrooms, 4.5 baths, a walk out finished basement and an elevator.
+A beautifully crafted home that takes full advantage of its location. The interior finishes are simplistic yet carefully executed to compliment the spectacular ocean views all throughout the home. It features 4 bedrooms, 4.5 baths, a walk out finished basement and an elevator.
