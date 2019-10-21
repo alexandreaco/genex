@@ -2,7 +2,7 @@
 title: Contact
 permalink: "/contact/"
 Field name:
-  Photo: "/uploads/Dinardo-379.jpg"
+  Photo: "/uploads/existing%20photo.png"
 layout: page
 ---
 
