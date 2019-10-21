@@ -3,7 +3,7 @@ title: Contact
 permalink: "/contact/"
 Image:
   Image:
-  - "/uploads/Dinardo-379.jpg"
+    Image: "/uploads/Dinardo-379.jpg"
 layout: page
 ---
 
