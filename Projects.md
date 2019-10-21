@@ -8,6 +8,7 @@ Projects:
 - Carriage House
 - Beachside
 - Middle Creek Farm
+- In Partnership with LJM Contracting
 layout: work
 ---
 
