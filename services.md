@@ -4,7 +4,7 @@ permalink: "/services/"
 layout: page
 ---
 
-# Our Services
+# OUR SERVICES
 
 * Design
 
