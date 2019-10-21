@@ -4,6 +4,6 @@ permalink: "/contact/"
 layout: page
 ---
 
-263 Shamrock Drive
-Warwick, RI 02886
-401.345.1928
+# **We'd love to hear from you!**
+
+Please feel free to contact us for all your home improvement needs. You can reach us at 401-345-1928 or you can send questions to charles@genexhomesri.com.
