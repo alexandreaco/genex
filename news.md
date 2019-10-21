@@ -4,4 +4,4 @@ permalink: "/news/"
 layout: page
 ---
 
-Check back for updates on our new projects!
+Check back soon for updates on our new projects!
