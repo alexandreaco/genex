@@ -1,6 +1,7 @@
 ---
 title: Services
 permalink: "/services/"
+Image: "/uploads/DJI_0002-bc80f4.JPG"
 layout: page
 ---
 
