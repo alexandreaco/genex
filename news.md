@@ -4,4 +4,4 @@ permalink: "/news/"
 layout: page
 ---
 
-This is a list of current news
+Check back for updates on our new projects!
