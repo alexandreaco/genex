@@ -4,9 +4,14 @@ permalink: "/services/"
 layout: page
 ---
 
-* Planning & Estimating
-* Design
-* New Building Construction
-* Renovations
-* Additions
+# Our Services
 
+* Design
+
+* Planning & Estimating
+
+* New Building Construction
+
+* Renovations
+
+* Additions
