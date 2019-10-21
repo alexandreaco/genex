@@ -1,6 +1,7 @@
 ---
 title: About
 permalink: "/about/"
+Image: "/uploads/Photo%20Jun%2026,%201%2044%2025%20PM.jpg"
 layout: page
 ---
 
