@@ -5,7 +5,7 @@ Projects:
 - Middletown
 - Ocean View
 - Bay View
-- Carriage House
+- Guest House
 - Beachside
 - Middle Creek Farm
 - In Partnership with LJM Contracting
