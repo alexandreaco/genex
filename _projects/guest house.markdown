@@ -20,4 +20,4 @@ Projects:
 - Ocean View
 ---
 
-Situated along Cedar Point in Jamestown, RI, this guest house is the first structure in what will become an estate featuring a main house, pilots house, and carriage house. It features an open concept main floor with 2 second floor bedrooms that capture views of the shoreline. 
+Situated along Cedar Point in Jamestown, RI, this guest house is the first structure in what will become an estate featuring a main house, pilots house, and carriage house. It features an open concept main floor with 2 second floor bedrooms that capture views of the shoreline.  
