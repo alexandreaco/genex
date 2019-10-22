@@ -7,3 +7,4 @@ year: 2019
 SqFt: '2,000'
 ---
 
+Situated along Cedar Point in Jamestown, RI, this carriage house is the second structure within an estate that will also feature a guest house, pilots house and main house. The main floor consists of three garage bays and the second floor features 2 bedrooms, 2 bathrooms, a living room and eat in kitchen.
