@@ -5,8 +5,9 @@ position: 6
 location: Jamestown, RI
 year: 2019
 SqFt: '2,000'
-image: "/uploads/1.jpg"
+image: "/uploads/Lot%2055.jpg"
 images:
+- "/uploads/Lot%2055.jpg"
 - "/uploads/1.jpg"
 Projects:
 - Guest House
