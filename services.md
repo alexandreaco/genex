@@ -1,14 +1,13 @@
 ---
 title: Services
 permalink: "/services/"
-Image: "/uploads/DJI_0002-bc80f4.JPG"
 layout: page
 ---
 
 # OUR SERVICES
 
 
-[DJI_0002-bc80f4.JPG](/uploads/DJI_0002-bc80f4.JPG)
+![DJI_0002-bc80f4.JPG](/uploads/DJI_0002-bc80f4.JPG)
 
 
 * Design

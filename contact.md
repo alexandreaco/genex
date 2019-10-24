@@ -1,7 +1,6 @@
 ---
 title: Contact
 permalink: "/contact/"
-Image: "/uploads/Dinardo-379.jpg"
 layout: page
 ---
 
