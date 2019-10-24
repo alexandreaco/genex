@@ -1,20 +1,25 @@
 .project {
-  display: flex;
   margin: 40px 0 80px 0;
+
+  @media screen and (min-width: $breakpoint-tablet) {
+    display: flex;
+  }
 }
 
 .project-meta {
-  width: $size-sidebar;
   text-transform: capitalize;
   background-color: $color-light-gray;;
-  padding-left: 30px;
-  padding-top: 45px;
-  position: sticky;
+  padding: 45px 30px;
   top: 0;
-  height: 100vh;
-  width: 33.3%;
-  min-width: 300px;
   line-height: $size-line-height;
+
+  @media screen and (min-width: $breakpoint-tablet) {
+    width: $size-sidebar;
+    position: sticky;
+    height: 100vh;
+    width: 33.3%;
+    min-width: 300px;
+  }
 
   h1 {
     margin: 0;
@@ -46,8 +51,11 @@
 
 .project-slideshow {
   @include fade-in;
-  width: 700px;
   margin: 45px auto 0 auto;
+  
+  @media screen and (min-width: $breakpoint-tablet) {
+    width: 700px;
+  }
 
   .slick-slide {
     height: auto;

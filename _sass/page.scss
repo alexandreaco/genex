@@ -1,4 +1,8 @@
 .page {
-  padding-left: $size-sidebar;
   max-width: 800px;
+  padding-bottom: 60px;
+  
+  @media screen and (min-width: $breakpoint-tablet) {
+    padding-left: $size-sidebar;
+  }
 }

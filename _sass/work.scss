@@ -26,7 +26,10 @@
 .work-item {
   height: 350px;
   margin-bottom: 75px;
-  width: 48%;
+
+  @media screen and (min-width: $breakpoint-tablet) {
+    width: 48%;
+  }
 
   img {
     width: 100%;
