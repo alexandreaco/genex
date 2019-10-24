@@ -3,6 +3,8 @@ title: In Partnership with LJM Contracting
 date: 2019-10-21 19:57:00 Z
 position: 7
 location: Rhode Island
+Categories:
+- Residential
 image: "/uploads/IMG_1379.JPG"
 images:
 - "/uploads/IMG_1400.JPG"
