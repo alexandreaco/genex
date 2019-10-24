@@ -5,6 +5,8 @@ position: 6
 location: Jamestown, RI
 year: 2019
 SqFt: '2,000'
+Categories:
+- Residential
 image: "/uploads/Lot%2055.jpg"
 images:
 - "/uploads/Lot%2055.jpg"
