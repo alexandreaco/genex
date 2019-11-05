@@ -2,6 +2,8 @@ header {
   display: flex;
   align-items: baseline;
   padding: 0 $size-gutter;
+  margin-top: 25px;
+  flex-wrap: wrap;
 
   h1 {
     margin: 22px 0 0 0;
@@ -11,11 +13,17 @@ header {
 
 .header-left {
   width: $size-sidebar;
+  margin-bottom: 30px;
+
+  img {
+    width: 250px;
+  }
 }
 
 .header-right {
   flex: 1;
   display: flex;
+  transform: translateY(-5px);
 }
 
 .header-link {
