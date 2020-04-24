@@ -10,7 +10,11 @@ Categories:
 image: "/uploads/Lot%2055.jpg"
 images:
 - "/uploads/Lot%2055.jpg"
-- "/uploads/1.jpg"
+- "/uploads/IMG_7256.jpg"
+- "/uploads/IMG_7253.jpg"
+- "/uploads/IMG_7258.jpg"
+- "/uploads/IMG_7054.jpg"
+- "/uploads/IMG_7056.jpg"
 Projects:
 - Guest House
 ---
